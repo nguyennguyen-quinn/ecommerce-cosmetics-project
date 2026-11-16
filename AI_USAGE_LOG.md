@@ -10,7 +10,7 @@
 
 | STT | Ngày thực hiện | Thành viên | Công cụ AI sử dụng | Mục đích / Nhiệm vụ (Prompt) | Kết quả đầu ra | Đánh giá & Chỉnh sửa của con người |
 | :---: | :---: | :---: | :---: | :--- | :--- | :--- |
-| **1** | - | Nguyễn Thị Kim Nguyên (BA) | AI thứ nhất (ChatGPT) | **Prompt 1 (Nhiệm vụ 3 & 5):** Phân tích mục tiêu, phạm vi dự án (In-scope / Out-of-scope), bảng vai trò người dùng, danh sách chức năng (F01-F08) và yêu cầu phi chức năng. | Bản nháp yêu cầu hệ thống ban đầu (`REQUIREMENTS.md`). | AI 1 sinh ra yêu cầu theo khuôn mẫu web bán lẻ hàng hóa thông thường (như điện thoại/quần áo), thiếu đặc thù đặt lịch tiệc trà, tính giá theo số khách và tùy chỉnh menu của TEAVENTO. |
+| **1** | 14/11  | Nguyễn Thị Kim Nguyên (BA) | AI thứ nhất (ChatGPT) | **Prompt 1 (Nhiệm vụ 3 & 5):** Phân tích mục tiêu, phạm vi dự án (In-scope / Out-of-scope), bảng vai trò người dùng, danh sách chức năng (F01-F08) và yêu cầu phi chức năng. | Bản nháp yêu cầu hệ thống ban đầu (`REQUIREMENTS.md`). | AI 1 sinh ra yêu cầu theo khuôn mẫu web bán lẻ hàng hóa thông thường (như điện thoại/quần áo), thiếu đặc thù đặt lịch tiệc trà, tính giá theo số khách và tùy chỉnh menu của TEAVENTO. |
 | **2** | 15/11 | Đinh Phạm Mỹ Duyên (AI Manager) | AI thứ hai (Gemini) | **Prompt 2 (Nhiệm vụ 4):** Đóng vai người phản biện độc lập đánh giá bản yêu cầu của AI 1 dựa trên mô tả đề tài TEAVENTO, vấn đề kinh doanh và khảo sát 3 đối thủ (Trái Cây Vuông Tròn, Sugary, PITO). | Bản phân tích phản biện 6 khía cạnh chuyên môn, bộ quy tắc `AGENTS.md` và bảng đối chiếu. | AI 2 chỉ ra chính xác các điểm lệch pha nghiệp vụ, các chức năng thiếu hụt và rủi ro bảo mật. Nhóm họp thống nhất giữ lại những gì phù hợp với quy mô học phần để cập nhật vào `REQUIREMENTS.md`. |
 
 ---
